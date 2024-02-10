@@ -1,4 +1,4 @@
-# @MSaidAlizada 	:azerbaijan:
+# @MSaidAlizada 	
 
 - :e-mail:: saidjavanshir@gmail.com
 
